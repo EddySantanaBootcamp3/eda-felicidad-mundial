@@ -1,4 +1,15 @@
-# EDA de la felicidad mundial
+![World Happiness Analytics](assets/portfolio-banner.svg)
+
+# World Happiness Analytics
+
+Caso de estudio sobre bienestar mundial: 2.116 registros históricos, 147 países en el corte principal y correlación de apoyo social de 0,812. [Notebook](notebooks/analisis_felicidad.ipynb) · [Informe ejecutivo](reports/informe_ejecutivo_felicidad.pdf). Los resultados son exploratorios y no implican causalidad.
+
+**English:** Exploratory analysis of global well-being, socioeconomic factors and changes over time.
+
+[Portafolio profesional](https://github.com/EddySantanaBootcamp3)
+
+---
+
 
 ![La llave de la felicidad: análisis exploratorio del bienestar mundial](reports/figures/banner_readme.png)
 
@@ -149,7 +160,7 @@ Desarrollo el proyecto de forma individual y registro los avances
 mediante commits descriptivos.
 
 - `analisis-felicidad`: rama donde realicé la limpieza y los análisis.
-- `develop`: rama donde completé la documentación y preparé la entrega.
+- `develop`: rama donde completé la documentación y preparé la documentación.
 - `main`: contiene la versión integrada del proyecto y el informe ejecutivo.
 
 En macOS o Linux, utiliza `.venv/bin/python` en lugar de `.\.venv\Scripts\python.exe`.
@@ -166,6 +177,6 @@ En macOS o Linux, utiliza `.venv/bin/python` en lugar de `.\.venv\Scripts\python
 - Queda pendiente precisar documentalmente algunos periodos históricos, incluido el registro de Cuba etiquetado como 2011.
 - El índice de Bután no es directamente comparable con la puntuación del World Happiness Report.
 
-## Estado de la entrega
+## Estado del proyecto
 
 El repositorio está publicado en GitHub e incluye el notebook explicado, los datos preparados, los gráficos estáticos e interactivos y el [informe ejecutivo en PDF](reports/informe_ejecutivo_felicidad.pdf). Los avances están integrados en `main`; conservo las ramas `develop` y `analisis-felicidad` para documentar el desarrollo. He comprobado en GitHub la visualización del notebook con sus gráficos y las 23 páginas del informe ejecutivo.
