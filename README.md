@@ -1,4 +1,4 @@
-![World Happiness Analytics](assets/portfolio-banner.svg)
+![World Happiness](assets/portfolio-banner.svg)
 
 # World Happiness Analytics
 
